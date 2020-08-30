@@ -10,6 +10,7 @@
 3. Unity AR Foundation: https://unity.com/unity/features/arfoundation
 
 ## Hardware
+### AR Headsets
 1. Microsoft HoloLens: https://www.microsoft.com/en-us/hololens
 2. Google Glass: https://www.google.com/glass/start/
 3. Snapchat Spectacles: https://www.spectacles.com/
@@ -17,3 +18,7 @@
 5. [Discontinued] North Focals : https://www.bynorth.com/
 6. Nreal Light: https://www.nreal.ai/
 7. Vuzix Blade: https://www.vuzix.com/Products/Blade-Smart-Glasses
+
+### AR Cameras (Cameras with Depth Perception)
+1. Microsoft Azure Kinect DK: https://azure.microsoft.com/en-us/services/kinect-dk/
+2. OpenCV AI Kit (OAK): https://opencv.org/opencv-ai-kit/
