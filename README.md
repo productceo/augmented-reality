@@ -1,13 +1,7 @@
 # Augmented Reality
-
 ## Community
 1. AR Discord: https://discord.gg/KdxPGBp
 2. AR Reddit: https://www.reddit.com/r/augmentedreality/
-
-## Framework
-1. Apple ARKit: https://developer.apple.com/augmented-reality/arkit/
-2. Google ARCore: https://developers.google.com/ar/
-3. Unity AR Foundation: https://unity.com/unity/features/arfoundation
 
 ## Hardware
 ### AR Headsets
@@ -22,3 +16,13 @@
 ### AR Cameras (Cameras with Depth Perception)
 1. Microsoft Azure Kinect DK: https://azure.microsoft.com/en-us/services/kinect-dk/
 2. OpenCV AI Kit (OAK): https://opencv.org/opencv-ai-kit/
+
+## Software
+### Framework
+1. Apple ARKit: https://developer.apple.com/augmented-reality/arkit/
+2. Google ARCore: https://developers.google.com/ar/
+3. Unity AR Foundation: https://unity.com/unity/features/arfoundation
+
+### AR Effect Studios
+1. Facebook Spark AR Studio: https://sparkar.facebook.com/ar-studio
+2. Snapchat Lens Studio: https://lensstudio.snapchat.com/
