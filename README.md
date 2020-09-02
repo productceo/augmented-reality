@@ -26,3 +26,10 @@
 ### AR Effect Studios
 1. Facebook Spark AR Studio: https://sparkar.facebook.com/ar-studio
 2. Snapchat Lens Studio: https://lensstudio.snapchat.com/
+
+## Ideas
+* Navigation
+* Restaurant Reviews
+* Fashion Shopping
+* Social Network
+* Book Reviews
