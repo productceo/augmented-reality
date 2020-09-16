@@ -12,10 +12,15 @@
 5. [Discontinued] North Focals : https://www.bynorth.com/
 6. Nreal Light: https://www.nreal.ai/
 7. Vuzix Blade: https://www.vuzix.com/Products/Blade-Smart-Glasses
+8. Facebook Aria: [N/A]
 
 ### AR Cameras (Cameras with Depth Perception)
 1. Microsoft Azure Kinect DK: https://azure.microsoft.com/en-us/services/kinect-dk/
 2. OpenCV AI Kit (OAK): https://opencv.org/opencv-ai-kit/
+
+### Input Sensors
+1. Electromyography (EMG): Hand Pose Recognition
+2. Head-Related Transfer Function (HRTF) for Soundscape
 
 ## Software
 ### Framework
