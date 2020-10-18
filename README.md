@@ -6,13 +6,15 @@
 ## Hardware
 ### AR Headsets
 1. Microsoft HoloLens: https://www.microsoft.com/en-us/hololens
-2. Google Glass: https://www.google.com/glass/start/
+2. Google Glass (Polarized. Beam Combiner): https://www.google.com/glass/start/
 3. Snapchat Spectacles: https://www.spectacles.com/
 4. [Prelaunch] Magic Leap One: https://www.magicleap.com/en-us/magic-leap-1
 5. [Discontinued] North Focals : https://www.bynorth.com/
 6. Nreal Light: https://www.nreal.ai/
 7. Vuzix Blade: https://www.vuzix.com/Products/Blade-Smart-Glasses
 8. Facebook Aria: [N/A]
+9. Schenker Meta (Off-Axis Semi-Spherical Combiner): https://www.schenker-tech.de/en/meta-2/
+10. Epson Moverio: https://epson.com/moverio-augmented-reality
 
 ### AR Cameras (Cameras with Depth Perception)
 1. Microsoft Azure Kinect DK: https://azure.microsoft.com/en-us/services/kinect-dk/
