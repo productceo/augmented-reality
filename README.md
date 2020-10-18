@@ -27,6 +27,7 @@
 ### Haptic Devices
 1. HaptX
 2. Microsoft CLAW
+3. Kaya Tech Holosuit
 
 ## Software
 ### Framework
