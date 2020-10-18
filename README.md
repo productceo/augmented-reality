@@ -24,6 +24,10 @@
 1. Electromyography (EMG): Hand Pose Recognition
 2. Head-Related Transfer Function (HRTF) for Soundscape
 
+### Haptic Devices
+1. HaptX
+2. Microsoft CLAW
+
 ## Software
 ### Framework
 1. Apple ARKit: https://developer.apple.com/augmented-reality/arkit/
