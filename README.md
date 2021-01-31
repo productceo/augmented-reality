@@ -1,7 +1,6 @@
 # Augmented Reality
 ## Community
-1. AR Discord: https://discord.gg/KdxPGBp
-2. AR Reddit: https://www.reddit.com/r/augmentedreality/
+1. AR Reddit: https://www.reddit.com/r/augmentedreality/
 
 ## Hardware
 ### AR Headsets
